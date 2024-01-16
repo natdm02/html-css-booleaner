@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  max: width 1100px;
+}
+
+h1{
+  font-size: 2rem;
+}
+
+p{
+  padding-top: 20px;
+}
+
+.dida{
+  font-size: 0.8rem;
+}
+
+.dida span{
+  color: grey;
+}
+
+.dida span{
+  color:blue;
+}
+
+.caption{
+  font-size: 0.8rem;
+}
+
+highlight{
+  background-color: yellow;
+}
+
+header .logo{
+  padding-top: 50px;
+  padding-left: 20px;
+}
+
+header .logo img{
+  width: 200px;
+}
+
+
+main{
+  padding: 50px;
+}
+
+
+main ul{
+  margin-left: 15px;
+}
+
+main table{
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+
+main table th{
+  text-align: left;
+}
+
+
+main table thead{
+  background-color: aquamarine;
+  color: white;
+}
+
+main table .text{
+  width: 50%;
+}
+
+
+main table .odd{
+  background-color: white;
+}
+
+
+footer h4{
+  color: brown;
+  margin-bottom: 20 px;
+}
+
+
+footer .box-image{
+  width: 300px;
+  height: 200 px;
+  background-size: cover;
+}
+
+footer .box-image#computer{
+  background-image: url(../img/monitor.jpg);
+}
+
+
+footer .box-image#graph{
+  background-image: url(../img/graph.jpg);
+}
+
+
